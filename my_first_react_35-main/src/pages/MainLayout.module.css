@@ -1,0 +1,17 @@
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 30px;
+}
+
+
+.headerNav {
+    display: flex;
+    column-gap: 20px;
+}
+
+.headerLink {
+    color: black;
+    text-decoration: none;
+}
